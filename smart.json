@@ -1,0 +1,9 @@
+{
+  "name": "jquery-waypoints",
+  "description": "Execute a function whenever you scroll to an element",
+  "homepage": "http://imakewebthings.com/jquery-waypoints",
+  "author": "imakewebthings",
+  "version": "0.0.2",
+  "git": "https://github.com/jcchin/jquery-waypoints",
+  "packages": {}
+}
